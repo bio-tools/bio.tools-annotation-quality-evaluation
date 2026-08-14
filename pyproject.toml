@@ -23,6 +23,14 @@ dependencies = [
     "rdflib",
 ]
 
-[tool.setuptools.packages.find]
-where = ["."]
-include = ["src*"]
+[tool.setuptools]
+packages = [
+    "biotools_quality",
+    "biotools_quality.analyzers",
+    "biotools_quality.collectors",
+    "biotools_quality.reporters",
+    "biotools_quality.utils",
+    "biotools_quality.validators",
+]
+package-dir = { "biotools_quality" = "src" }
+

@@ -3,6 +3,7 @@
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://biotools-annotation-quality-evaluation.streamlit.app)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
+[![Zenodo](https://zenodo.org/badge/1091755778.svg)](Zenodo)
 
 A comprehensive **bioinformatics data analysis platform** for evaluating metadata quality in the [ELIXIR bio.tools registry](https://bio.tools). This Streamlit web application provides real-time analysis of tool annotations, schema validation, and quality scoring to help improve bioinformatics tool discoverability and metadata standards.
 
